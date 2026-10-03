@@ -1,0 +1,16 @@
+{
+  "model_name": "group2_w2_exp06_rf",
+  "numTrees": 48,
+  "maxDepth": 10,
+  "seed": 12345,
+  "training_rows": 233185,
+  "test_rows": 700403,
+  "training_h_fg": 0.14360928289774105,
+  "test_h_fg": 0.15310441102032937,
+  "training_test_gap": 0.00949512812258832,
+  "alternative_model": "group2_w2_exp05_rf",
+  "status": "candidate selected from current-distribution evidence; two-page PDF report completed",
+  "model_directory": "group2_w2_exp06_rf_model",
+  "placement_in_project": "models/group2_w2_exp06_rf_model",
+  "report": "Experiment_Report.pdf"
+}
